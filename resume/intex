@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+  <title>Yixuan Teng Resume</title>
+  <meta charset="utf-8" />
+  <meta name="author" content="Yixuan Teng" />
+  <meta name="keywords" content="basic website" />
+</head>
+
+<body>
+  <header>
+     <h1>Yixuan Teng</h1>
+  </header>
+
+<main>
+
+<img src="imgs/miami.png"/>
+<p><i>Yixuan Teng is a sophomore student at University of Miami studying Health Science and Psychology.</i></p>
+
+<section>
+  <h2>Education</h2>
+  <h3><strong>University of Miami</strong></h3>
+  <p>Expected graduation 2020</p>
+  <p>This is a <a href="https://welcome.miami.edu/">link.</a></p>
+  <ul>
+    <li>Major in Health Science and Psychology</li>
+    <li><i>Minor in Chemistry</i></li>
+  </ul>
+</section>
+
+<section>
+  <h2>Work Experience</h2>
+  <h3><strong>Library Assistant</strong></h3>
+  <p>2014.01-2016.01</p>
+  <ul>
+    <li>Check books in and out.</li>
+    <li>Sort books, return them to designated storage areas.</li>
+    <li>Maintain records of items received, stored, issued, and returned.</li>
+  </ul>
+</section>
+
+<section>
+  <h2>Skills</h2>
+  <ul>
+    <li>Microsoft Office</li>
+    <li>Photoshop</li>
+    <li>SPSS</li>
+    <li>JASP</li>
+</section>
+
+<section>
+  <h2>Certificates</h2>
+  <table>
+    <tr>
+      <th>Time</th>
+      <td>2018.1</td>
+      <td>2016.5</td>
+    </tr>
+    <tr>
+      <th>Place</th>
+      <td>Red Cross</td>
+      <td>Volunteer Servies at Hospital</td>
+    </tr>
+  </table>
+  <p>This is a <a href="https://www.redcross.org/donate/donation?donprodid=prod10001&scode=RSG00000E017&cid=generic&med=cpc&source=google&ds_lpt_start&ds_lpt_end&gclid=CjwKCAiAtdDTBRArEiwAPT4y-2ZHSkYAkGN2cCUZwge-xEUPDJIsv6-DaOcJbVCeIKVHVTBSVqkMrxoC5KoQAvD_BwE&gclsrc=aw.ds&dclid=CKKI1s_fiNkCFU8WhwodFeYC6A/">link.</a></p>
+</section>
+
+<section>
+  <h2>Interests</h2>
+  <ul>
+    <li>Coloring</li>
+    <li>Costuming</li>
+    <li>Playing badminton</li>
+  </ul>
+</section>
+
+</main>
+
+<!--This is a comment.-->
+<footer>
+  <h2>Contact</h2>
+  <p>yxt229@miami.edu</p>
+  <address>1101 Stanford Drive, Coral Gables, FL, 33146</address>
+</footer>
+
+</body>
+
+</html>
