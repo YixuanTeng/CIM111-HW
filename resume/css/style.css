@@ -1,0 +1,87 @@
+
+img.align-center{
+  border: solid 3px rgb(246, 227, 247);
+  padding-bottom: 5px;
+  padding-top: 5px;
+  display: block;
+  margin:auto;
+}
+img.medium{
+  width: 250px;
+  height: 250px;
+}
+
+
+h1{
+  color: rgb(131, 247, 220);
+text-align: center;
+margin-top: 20px;
+font-size: 50px;
+background-color: grey;
+font-family: Permanent Marker,cursive;
+}
+
+h2{
+  text-align: center;
+  font-family: Lobster,cursive;
+}
+
+h3{
+  text-align: center;
+  font-family: Shadows into Light,cursive;
+}
+
+.sectionheader{
+  color: rgb(252, 196, 201);
+  background-color: grey;
+}
+
+p{
+  text-decoration: none;
+  color: rgb(85, 119, 116);
+  text-align: center;}
+
+.right{
+  height: 20px;
+  float: right;
+}
+
+a{
+  text-decoration: none;
+  color: grey;
+  font-style: italic;
+}
+
+a:hover{
+  color: brown;
+}
+
+footer{
+  margin-bottom: 50px;
+}
+
+ul.custom{
+  list-style-type: square;
+}
+
+ul.custom1{
+  list-style-type:none;
+}
+
+ol.custom{
+  list-style-type: circle;
+}
+
+#p{
+ text-decoration: underline;
+ font-family: Nanum pen Script,cursive;
+ color: brown;
+}
+
+#contact{
+ color: grey
+}
+
+table{
+  margin-left: 20px;
+}
