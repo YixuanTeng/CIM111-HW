@@ -1,0 +1,58 @@
+h1{
+  color: #abf4ac;
+  font-family: Satisfy,cursive;
+  text-align: center;
+  font-size: 50px;
+}
+
+h2{
+  color: #a7dbf9;
+  font-family: Poiret one,cursive;
+  font-size: 30px;
+}
+
+p{
+  color: #f9a7ba;
+  font-family: oxygen,cursive;
+  font-size: 20px;
+}
+
+body{
+  background-color: #fffbc1;
+}
+
+#toggle{
+  color: #f9a7ba;
+  font-family: oxygen,cursive;
+  font-size: 20px;
+}
+
+#hover{
+  color: #f9a7ba;
+  font-family: oxygen,cursive;
+  font-size: 20px;
+}
+
+.imagetwo{
+  width: 300px;
+  height: 300px;
+}
+
+.imagethree{
+  width: 400px;
+  height: 300px;
+}
+
+.imagefive{
+  width: 400px;
+  height: 300px;
+}
+
+.imagefour{
+  width: 400px;
+  height: 300px;
+}
+.imageone{
+  width: 320px;
+  height: 350px;
+}
