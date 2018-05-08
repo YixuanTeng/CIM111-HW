@@ -1,9 +1,9 @@
 $(document).ready(function(){
     $("#hide").click(function(){
-        $("#img").hide();
+        $(".img").hide();
     });
     $("#show").click(function(){
-        $("#img").show();
+        $(".img").show();
     });
     $("#hide1").click(function(){
         $("#img1").hide();
@@ -17,7 +17,7 @@ $(document).ready(function(){
     $("#show2").click(function(){
         $("#img2").show();
     });
-    
+
 $("#button1").click(function(){
       $("#replace").html("<img src='img/1.jpg' width=164 height=200/>");
       });
