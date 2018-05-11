@@ -32,23 +32,36 @@ main {
   display: grid;
   grid-template-areas: "col1 col2";
   grid-template-rows: 1fr;
-  grid-template-columns: 1fr 3fr;
+  grid-template-columns: 1fr 1fr;
   color: #ddd0d0;
 }
 
 .box1{
   height: auto;
-  width: 100%;
+  max-width: 100%;
 }
 
 .box2{
   height: auto;
-  width: 100%;
+  max-width: 100%;
 }
 
 .box3{
   height: auto;
-  width: 100%;
+  max-width: 100%;
+}
+
+.box4{
+  height: auto;
+  max-width: 100%;
+}
+.box5{
+  height: auto;
+  max-width: 100%;
+}
+.box6{
+  height: auto;
+  max-width: 100%;
 }
 
 .container{
@@ -56,7 +69,7 @@ main {
   width: 100%;
 }
 
-#img{
+.responsive{
   width: 100%;
   height: auto;
 }

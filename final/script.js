@@ -32,19 +32,19 @@ $(document).ready(function(){
     });
 
 $("#button1").click(function(){
-      $("#replace").html("<img src='imgs/12.jpg' width=500 height=300/>");
+      $("#replace").html("<img src='imgs/12.jpg' width=100% height=auto/>");
       });
 $("#button2").click(function(){
-      $("#replace").html("<img src='imgs/13.jpg' width=500 height=300/>");
+      $("#replace").html("<img src='imgs/13.jpg' width=100% height=auto/>");
       });
 $("#button3").click(function(){
-      $("#replace").html("<img src='imgs/14.jpg' width=500 height=300/>");
+      $("#replace").html("<img src='imgs/14.jpg' width=100% height=auto/>");
       });
 $("#button4").click(function(){
-      $("#replace").html("<img src='imgs/15.jpg' width=500 height=300/>");
+      $("#replace").html("<img src='imgs/15.jpg' width=100% height=auto/>");
       });
 $("#button5").click(function(){
-      $("#replace").html("<img src='imgs/16.jpg' width=500 height=300/>");
+      $("#replace").html("<img src='imgs/16.jpg' width=100% height=auto/>");
       });
 
 $("#toggle1").click(function(){
